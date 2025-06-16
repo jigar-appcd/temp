@@ -1,0 +1,7 @@
+{
+  "app_stack_name": "demo-16-06-25",
+  "iac_type": "Terraform",
+  "provider": "aws",
+  "multi_env": false,
+  "exporter": "terraform"
+}
